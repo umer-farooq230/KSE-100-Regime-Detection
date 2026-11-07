@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "KSE-100 Regime Detection (Ultra Instinct)"
+type: software
+version: 0.1.0
+date-released: 2026-11-08
+license: MIT
+repository-code: "https://github.com/umer-farooq230/KSE-100-Regime-Detection"
+authors:
+  - family-names: Farooq
+    given-names: Umer
+  - family-names: Hayat
+    given-names: Naveed

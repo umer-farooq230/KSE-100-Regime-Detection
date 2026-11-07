@@ -1,0 +1,17 @@
+# Raw data is not shared. See DATA.md
+data/raw/
+data/processed/
+
+# Deck stays private until the supervisor says it can be shared
+docs/slides/*.pdf
+docs/slides/*.pptx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+
+# System files
+.DS_Store
