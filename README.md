@@ -1,10 +1,8 @@
 # KSE-100 Regime Detection
 
-*Project name: Ultra Instinct*
-
 **Can a simple model, shown only a few labelled days, spot a change in the KSE-100's mood quickly? And does news help it?**
 
-> **Status: work in progress.** The research design is done (Milestone 2, 27 Oct 2026). Code and results start at Milestone 3. There are no results yet.
+> **Status: work in progress.** The research design is done. Data and code are not available to keep the confidentiality. 
 
 ## The question
 
